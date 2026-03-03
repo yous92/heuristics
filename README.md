@@ -6,6 +6,7 @@ Copilot assisted algorithms and heuristics
 
 ## Parallel
 
+
 Information on [CUDA with Numba](https://numba.pydata.org/numba-doc/latest/cuda/)
 For using CUDA you must create an activate conda:  
 
